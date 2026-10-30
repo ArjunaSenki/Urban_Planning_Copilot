@@ -1,0 +1,7 @@
+FICTIONAL DEMO DOCUMENT — NOT AN ACTUAL PLAN, ZONING CODE, OR LEGAL AUTHORITY.
+
+Section F-1: Invented residential-example rule
+FICTIONAL DEMO CONTENT — In this made-up example only, a hypothetical residential planning area may request human review of proposed development and retained green space. This statement is invented for software demonstration and is not a real zoning rule.
+
+Section F-2: Invented evidence-review note
+FICTIONAL DEMO CONTENT — In this made-up example only, reviewers may compare submitted site information with a fictional district plan before asking for additional documents. This statement is invented for software demonstration and is not a real planning requirement.
